@@ -4,3 +4,14 @@
 .nav-link {
   color: white!important;
 }
+.home-nav {
+
+}
+.home-nav:hover {
+
+
+}
+.nav-menu {
+  position: relative;
+  justify-content: space-around;
+}
