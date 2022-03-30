@@ -1,17 +1,22 @@
 .bg-dark {
   background-color: #17008C!important;
+  display:flex;
+  justify-content: space-around;
 }
 .nav-link {
   color: white!important;
-}
-.home-nav {
 
 }
-.home-nav:hover {
-
-
+a.nav-link {
+  font-size: 15px;
+  letter-spacing: 3px;
+  font-weight: 400;
+  margin-left: 4%;
 }
-.nav-menu {
-  position: relative;
-  justify-content: space-around;
+
+.clean-logo {
+  margin-left: 5%;
+}
+.me-auto {
+  margin-right: 0!important;
 }

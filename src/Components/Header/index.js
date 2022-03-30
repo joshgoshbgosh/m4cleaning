@@ -12,8 +12,8 @@ function Header(props){
     <header>
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
     <NavLink to='/'>
-     <Image className="cleanlogo" src={cleanlogo}width="87"height="87"className="d-inline-block align-top"to="/"/>
-     </NavLink>
+     <Image  src={cleanlogo}width="87"height="87"className="d-inline-block align-top clean-logo"to="/"/>
+    </NavLink>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="me-auto nav-menu">
