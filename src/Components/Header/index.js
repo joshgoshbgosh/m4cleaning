@@ -4,7 +4,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import Image from 'react-bootstrap/Image';
 import Nav from 'react-bootstrap/Nav';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-import cleanlogo from './../../images/cleanlogo.png';
+import  wtg from './../../images/wtg.jpeg';
 import './index.css';
 
 function Header(props){
@@ -12,7 +12,7 @@ function Header(props){
     <header>
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
     <NavLink to='/'>
-     <Image  src={cleanlogo}width="87"height="87"className="d-inline-block align-top clean-logo"to="/"/>
+     <Image  src={wtg}width="87"height="87"className="d-inline-block align-top clean-logo"to="/"/>
     </NavLink>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">

@@ -7,7 +7,7 @@ import './index.css';
 function App() {
   return (
     <React.Fragment>
-    <Header/>
+    
       <div className="App">
         <Home/>
 

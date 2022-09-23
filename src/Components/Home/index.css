@@ -1,37 +1,6 @@
-.blue-box {
-  background-color: #17008C;
-  height:300px;
-  width: 100%;
-}
+
 .fade-white-box {
   background-color: #EDF0F7;
   height:300px;
   width:100%;
-}
-.white-box {
-  background-color: white;
-  height:300px;
-  width: 100%;
-}
-.relax-div {
-  text-align: center;
-}
-.in-good-hands {
-  color: #202652;
-}
-.special {
-  color: #3CAB61;
-}
-.green-box {
-  background-color: #3CAB61;
-}
-.move-out-request-service {
-  color: white;
-  text-align: center;
-}
-.card-text {
-  text-align: center;
-}
-.card-title {
-  text-align: center;
 }
