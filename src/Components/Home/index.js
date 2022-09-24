@@ -16,7 +16,11 @@ class Home extends Component {
         <div className="fade-white-box">
           <img className="wtgtp"src={wtgtp}/>
         </div>
-
+        <div className="social-media-icons">
+          <i class="fa-brands fa-youtube"></i>
+          <i class="fa-brands fa-instagram"></i>
+          <i class="fa-brands fa-facebook"></i>
+        </div>
 
       </div>
     );

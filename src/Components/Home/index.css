@@ -7,4 +7,10 @@
 .wtgtp {
   height: 100%;
   width: 100%;
+
+}
+.wtgtp:hover {
+ /* transition: 180s;
+ transform: rotate(4320deg); */
+
 }
