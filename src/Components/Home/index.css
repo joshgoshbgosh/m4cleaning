@@ -14,3 +14,19 @@
  transform: rotate(4320deg); */
 
 }
+.social-media-icons {
+  background-color: #07AAB3;
+  font-size: 40px;
+  display:flex;
+  justify-content: space-around;
+}
+a {
+  color: white;
+  transition:2s;
+
+}
+a:hover {
+  
+  transform:rotateY(720000deg);
+  transition:1200s;
+}
